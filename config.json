@@ -21,3 +21,9 @@
   "update-browserslist": "npx browserslist@latest --update-db",
   "export": "next build && next export -o ./dist"
 }
+
+   "dependencies": {
+     "next": "^13.4.0", // or the latest version
+     "postcss": "^8.4.0", // or the latest version
+     // ... other dependencies
+   }

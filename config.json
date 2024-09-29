@@ -17,3 +17,7 @@
   "twitter_account": "@my-account",
   "github_account": "wutali"
 }
+"scripts": {
+  "update-browserslist": "npx browserslist@latest --update-db",
+  "export": "next build && next export -o ./dist"
+}

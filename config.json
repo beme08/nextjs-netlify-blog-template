@@ -25,5 +25,7 @@
    "dependencies": {
      "next": "^13.4.0", // or the latest version
      "postcss": "^8.4.0", // or the latest version
+     "postcss-scss": "^4.0.0",
      // ... other dependencies
    }
+
